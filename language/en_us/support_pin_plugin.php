@@ -1,9 +1,9 @@
 <?php
 
 // Plugin info
-$lang['SupportPinPlugin.name'] = 'Support PIN';
-$lang['SupportPinPlugin.display_name'] = 'Support PIN';
-$lang['SupportPinPlugin.description'] = 'Assign clients a support PIN to use when making contact.';
+$lang['SupportPinPlugin.name'] = 'Account PIN';
+$lang['SupportPinPlugin.display_name'] = 'Account PIN';
+$lang['SupportPinPlugin.description'] = 'Assign clients a accoount PIN to use when making contact.';
 
 // Plugin settings
 $lang['SupportPinPlugin.action_client_widget'] = 'Show PIN widget on the client home page';
@@ -25,5 +25,5 @@ $lang['SupportPinPlugin.client_no'] = 'Client No:';
 $lang['SupportPinPlugin.your_pin'] = 'Your PIN:';
 $lang['SupportPinPlugin.client_pin'] = 'Client PIN:';
 $lang['SupportPinPlugin.expires'] = 'PIN Expires:';
-$lang['SupportPinPlugin.nopin'] = 'No support PIN is currently set';
+$lang['SupportPinPlugin.nopin'] = 'No account PIN is currently set';
 $lang['SupportPinPlugin.client_overview'] = 'You may be asked for the following PIN when contacting support';
